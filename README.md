@@ -1,0 +1,2 @@
+# Petka
+PetkaKalıp CRM-ERP
