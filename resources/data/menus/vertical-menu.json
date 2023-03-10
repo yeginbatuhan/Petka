@@ -1,0 +1,185 @@
+{
+  "menu": [
+    {
+      "url":"/",
+      "name":"Dashboard",
+      "slug": "dashboard",
+      "icon": "desktop"
+    },
+
+    {
+      "navheader": "Kullanıcı İşlemleri"
+    },
+    {
+      "url": "users",
+      "name": "User List",
+      "slug": "user_index",
+      "icon": "users"
+    },
+    {
+      "url": "users_add",
+      "name": "User Add",
+      "slug": "user_add",
+      "icon": "plus"
+    },
+    {
+      "url": "users_excel_add",
+      "name": "User Excel Add",
+      "slug": "users_excel_add",
+      "icon": "file-import"
+    },
+    {
+      "navheader": "Müşteri Sipariş İşlemleri"
+    },
+
+    {
+
+      "url": "orders",
+      "name": "Order List",
+      "slug": "order_index",
+      "icon": "truck"
+    },
+    {
+      "url": "order_add",
+      "name": "Order Add",
+      "slug": "order_add",
+      "icon": "plus"
+    },
+    {
+      "url": "orders_excel_add",
+      "name": "Order Excel Add",
+      "slug": "orders_excel_add",
+      "icon": "file-import"
+    },
+    {
+      "navheader": "Müşteri Bülten İşlemleri"
+    },
+    {
+      "url": "new",
+      "name": "New List",
+      "slug": "new_index",
+      "icon": "label-new"
+    },
+    {
+      "url": "new_add",
+      "name": "New Add",
+      "slug": "new_add",
+      "icon": "plus"
+    },
+
+    {
+      "navheader": "Müşteri Numune İşlemleri"
+    },
+    {
+      "url": "cststock",
+      "name": "Customer Stock List",
+      "slug": "cststock",
+      "icon": "shoppingcart-out"
+    },
+    {
+      "url": "cststock_add",
+      "name": "Customer Stock Add",
+      "slug": "cststock_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Teklif İşlemleri"
+    },
+    {
+      "url": "offers",
+      "name": "Offer List",
+      "slug": "offers",
+      "icon": "timer"
+    },
+    {
+      "url": "offer_add",
+      "name": "Offer Add",
+      "slug": "offer_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Petka Stok İşlemleri"
+    },
+    {
+      "url": "ptkstock",
+      "name": "Petka Stock List",
+      "slug": "ptkstock",
+      "icon": "box-add"
+    },
+    {
+      "url": "ptkstock_add",
+      "name": "Petka Stock Add",
+      "slug": "ptkstock_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Devam Eden Projeler"
+    },
+    {
+      "url": "ongoing",
+      "name": "Ongoing List",
+      "slug": "ongoing_index",
+      "icon": "calendar"
+    },
+    {
+      "url": "ongoing_add",
+      "name": "Ongoing Add",
+      "slug": "ongoing_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Personel Bülten İşlemleri"
+    },
+    {
+      "url": "person_new",
+      "name": "Person New List",
+      "slug": "person_new_index",
+      "icon": "label-new"
+    },
+    {
+      "url": "person_new_add",
+      "name": "Person New Add",
+      "slug": "person_new_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Personel İzin İşlemleri"
+    },
+    {
+      "url": "permit",
+      "name": "Permit List",
+      "slug": "permit_index",
+      "icon": "calendar"
+    },
+    {
+      "url": "permit_add",
+      "name": "Permit Add",
+      "slug": "permit_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Şirket Tanıtım İşlemleri"
+    },
+    {
+      "url": "promotion",
+      "name": "Promotion List",
+      "slug": "promotion_index",
+      "icon": "idea"
+    },
+    {
+      "url": "promotion_add",
+      "name": "Promotion Add",
+      "slug": "promotion_add",
+      "icon": "plus"
+    },
+    {
+      "navheader": "Log Kayıt İşlemleri"
+    },
+    {
+      "url": "log",
+      "name": "Log List",
+      "slug": "log",
+      "icon": "info-alt"
+    }
+  ]
+}
